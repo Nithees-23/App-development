@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background:url("https://c4.wallpaperflare.com/wallpaper/649/200/63/digital-art-artwork-abstract-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.cover{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    height: 400px;
+    width: 400px;
+    justify-content: center;;
+    border-style: solid;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    font-weight: 100;
+    opacity: 0.9;
+    font-weight: 200;
+    border-color: rgb(8, 8, 8);
+    background-image: url("");
+}
+
+.cover.h1{
+    font-weight: bold;
+    color: aliceblue;
+}
+.lusername{
+    margin: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-color: none;
+    
+}
+.input.ls{
+    padding:100 px;
+}
+.ls{
+    font-weight: bold;
+    color: black;
+}
+
+.paa{
+    margin: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-color: none;
+    outline: none;
+}
+.btn{
+    margin: 30px;
+    width: 100px;
+    height: 30px;
+}
+.icon1{
+    position: absolute;
+    top: 65px;
+    left: 260px;
+
+}
+.icon2{
+    position: absolute;
+    top: 136px;
+    left: 260px;
+
+}
+.sp{
+    color:blue
+}
+
+
