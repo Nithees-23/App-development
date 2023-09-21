@@ -1,0 +1,85 @@
+.ename{
+    position: absolute;
+    top: 70px;
+    left: 184px;
+    border-color: black;
+    height:90.5%  ;
+    width: 88%;
+    text-align: center;
+    justify-content: center;
+    text-size-adjust: 20px;
+    border-style: solid;
+    font-weight: 100;
+    font-weight: 200;
+    border-color:black;
+    padding: 10px;    
+}
+.laycont{
+    position: absolute;
+    top: 70px;
+    left: 14px;
+    border-color: black;
+    height: 120px;
+    width: 310px;
+    border-style: solid;
+    box-shadow: 10px 5px 5px rgb(230, 172, 172);
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+.laycont1{
+    position: absolute;
+    top: 70px;
+    left: 410px;
+    border-color: black;
+    height: 120px;
+    width: 310px;
+    border-style: solid;
+    box-shadow: 10px 5px 5px rgb(230, 172, 172);
+    font-size: 30px;
+    display: grid();
+}
+.laycont1 img{
+    position: absolute;
+    left: 0px;
+}
+.laycont img{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.laycont2 img{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    
+}
+.laycont2{
+    position: absolute;
+    top: 70px;
+    left: 810px;
+    border-color: black;
+    height: 120px;
+    width: 310px;
+    border-style: solid;
+    box-shadow: 10px 5px 5px rgb(230, 172, 172);
+    font-size: 30px;
+    display: grid();
+}
+.layspan{
+    position: absolute;
+    top: 10px;
+    font-family: 'Caveat', cursive;
+    left: 90px;
+}
+.layspan1{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+    font-family: 'Caveat', cursive;
+}
+.layspan2{
+    position: absolute;
+    top: 10px;
+    left: 90px;
+    font-family: 'Caveat', cursive;
+}
