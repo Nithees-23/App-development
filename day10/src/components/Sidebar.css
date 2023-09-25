@@ -1,0 +1,93 @@
+.container1{
+    position: absolute;
+    height:100%;
+    width: 12%;
+    justify-content: center;
+    border-style: solid;
+    font-weight: 100;
+    font-weight: 200;
+    border-color:black;
+    padding: 10px;
+    background-color:#1f2f3e;
+    
+}
+
+.imgc{
+    height: 65px;
+    width: 160px;
+    border-style: solid;
+    background-color: rgb(71, 79, 91);
+    border-radius: 12px;
+}
+.das{
+    border-radius: 12px;
+    height: 60px;
+    width: 160px;
+    border-style: solid;
+    background-color: white;
+    margin-top: 30px;
+}
+.inv{
+    height: 60px;
+    width: 160px;
+    border-style: solid;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+.view{
+    height: 60px;
+    width: 160px;
+    border-style: solid;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+.addproducts{
+    height: 60px;
+    width: 160px;
+    border-style: solid;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 12px;
+}
+
+.cus{
+    height: 60px;
+    width: 160px;
+    border-style: solid;
+    border-radius: 12px;
+    background-color: white;
+    margin-top: 30px;
+}
+.dicon{
+    position: relative;
+    bottom:10px;
+}
+.iicon{
+    position: relative;
+    bottom:10px;
+}
+.vicon{
+    position: relative;
+    bottom:10px;
+}
+.picon{
+    position: relative;
+    bottom:10px;
+}
+.aicon{
+    position: relative;
+    bottom:10px;
+}
+
+.logo-name{
+    font-family: 'Caveat', cursive;
+    position: absolute;
+    top: 30px;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    font-size: larger;
+    left: 90px;
+}

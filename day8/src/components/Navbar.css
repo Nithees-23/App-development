@@ -1,0 +1,54 @@
+
+.navcover{
+    position: absolute;
+    left: 184px;
+    border-color: black;
+    height:70px;
+    width: 88%;
+    justify-content: center;
+    border-style: solid;
+    font-weight: 100;
+    font-weight: 200;
+    border-color:black;
+    padding: 10px;    
+}
+
+.searchbox{
+    position: absolute;
+    left: 400px;
+    border-color: black;
+    height: 40px;
+    width: 300px;
+    border-style: solid;
+    border-color:black;
+    padding: 10px;    
+    border-radius: 25px;
+}
+.navtxt{
+    position: absolute;
+    top: 3px;
+    left: 10px;
+    width: 280px;
+    height:30px;
+    outline: none;
+    border-color: white;
+    border: none;
+    border-radius: 25px;
+}
+.navs{
+    position: absolute;
+    top: 6px;
+    left: 265px;
+    border-radius: 5px;
+    width: 40px;
+    background-color:#d3d3d3	;
+}
+.btn-navlog{
+    position: absolute;
+    right: 40px;
+    top: 20px;
+    background-color:blueviolet;
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+}

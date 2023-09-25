@@ -1,0 +1,22 @@
+.addprodbody,.upprodbody{
+    margin-left: 35%;
+    position: absolute;
+    top: 200px;
+    border:2px solid black;
+    width:30vw;
+    height:66vh;
+    padding-top: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px rgb(115, 115, 115);
+}
+.addprodin,.updatein{
+    margin-left: 100px;
+    padding:10px;
+}
+.apin,.upin{
+    padding: 10px;
+}
+.addprodsub,.updatebut{
+    margin-left: 20px;
+    margin-top: 10px;
+}

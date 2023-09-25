@@ -1,0 +1,88 @@
+.lannav{
+    position: absolute;
+    top: 0px;
+    height: 90px;
+    width: 100%;
+    border-color: black;
+    border-style: solid;
+    background-color: #c5d7e5;
+    box-shadow: 1px 7px 0px 0px rgba(255, 255, 255, 0.2);
+    border: none;
+    opacity: 0.9;
+}
+.btns1{
+    position: absolute;
+    top: 20px;
+    right: 140px;
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    background-color:#0644a0;
+}
+.btnl1{
+    background-color: #c5d7e5;
+    border:none;
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    top: 20px;
+    right: 40px;
+    border-radius: 10px;  
+}
+.abt{
+    position: absolute;
+    top: 20px;
+    left: 400px; 
+    height: 40px;
+    width: 100px;
+    border: none;
+    background-color: #c5d7e5;
+    font-size: larger;
+    font-style: bold;
+}
+.home{
+    position: absolute;
+    top: 20px;
+    left: 250px; 
+    height: 40px;
+    width: 100px;
+    border: none;
+    background-color: #c5d7e5;
+    font-size: larger;
+    font-style: bold;
+}
+.cntus{
+    position: absolute;
+    top: 20px;
+    left: 550px; 
+    height: 40px;
+    width: 100px;
+    border: none;
+    background-color: #c5d7e5;
+    font-size: larger;
+    font-style: bold;
+}
+.prd{  
+    width: 130px;
+    font-style: bold;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    left: 700px; 
+    width: 100px;
+    border: none;
+    background-color: #c5d7e5;
+    font-size: larger;
+}
+.cntus:hover {
+    color: rgb(75, 61, 228);
+    font-size: 150%;
+  }
+.prd:hover {
+    color: rgb(75, 61, 228);
+    font-size: 150%;
+  }
+.abt:hover {
+    color: rgb(75, 61, 228);
+    font-size: 150%;
+  }

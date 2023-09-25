@@ -1,0 +1,21 @@
+.invcon{
+    position: absolute;
+    top: 70px;
+    left: 184px;
+    border-color: black;
+    height:90.5%  ;
+    width: 88%;
+    justify-content: center;
+    text-size-adjust: 20px;
+    border-style: solid;
+    font-weight: 100;
+    font-weight: 200;
+    border-color:black;
+    padding: 10px;    
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    position: relative;    
+  }
+  tr:hover {background-color: coral;}

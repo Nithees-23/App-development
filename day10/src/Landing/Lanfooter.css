@@ -1,0 +1,35 @@
+.mainfoot{
+    width: 100%;
+    height: 90px;
+    background-color: rgba(175, 209, 218, 0.789);   
+}
+.footercont{
+    position: absolute;
+    top: 30px;
+    right: 90px;
+}
+.fotcon{
+    position: absolute;
+    top: 30px;
+    left: 130px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.mainfoot1{
+    width: 100%;
+    height: 30px;
+    background-color:#050606;   
+}
+.linik{
+    position: absolute;
+    top: 99px;
+    color: white;
+}
+.linic{
+    position: absolute;
+    right: 290px;
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}

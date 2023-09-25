@@ -1,0 +1,153 @@
+.contact{
+    position: absolute;
+    top: 190px;
+    left: 150px;
+    height: 500px;
+    width: 80%;
+}
+.cntcont{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    height: 90%;
+    width: 40%;
+    display: grid;
+}
+.cimg1{
+    position: absolute;
+    left: 80px;
+    top: 50px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.cimg2{
+    font-size: larger;
+    font-weight: bolder;
+    position: absolute;
+    left: 80px;
+    top: 200px;
+}
+.cimg3{
+    font-size: larger;
+    font-weight: bolder;
+    position: absolute;
+    left: 80px;
+    top: 320px;
+}
+.cntcont1{
+    position: absolute;
+    top: 70px;
+    right:20px;
+    height: 70%;
+    width: 50%;
+    /* background-color:#f3f5f6; */
+    box-shadow: 10px 5px 5px rgb(169, 164, 164);
+    background-position-y:opacity 0.2em ;
+}
+.stcnt1{
+    box-shadow: 10px 5px 5px rgb(169, 164, 164);
+    height: 95px;
+    /* background-color: #f3f5f6; */
+}
+.stcnt2{
+    box-shadow: 10px 5px 5px rgb(169, 164, 164);
+    height: 95px;
+    /* background-color: #f3f5f6; */
+}
+.stcnt3{
+    box-shadow: 10px 5px 5px rgb(169, 164, 164);
+    height: 95px;
+    /* background-color: #f3f5f6; */
+}
+.cntcont1 p{
+    font-size: 29px;
+    font-weight: bolder;
+    position: relative;
+    top: 5px;
+    left: 20px;
+}
+.cntin1{
+    position: relative;
+    top: 20px;
+    left: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+}
+.cntin1 input{
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+}
+.cntin2 input{
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+}
+.cntin2 {
+    position: relative;
+    top: 50px;
+    left: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    height: 40px;
+}
+.cntin3 textarea {
+    position: relative;
+    border-radius: 5px;
+    top: 80px;
+    left: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+    width: 550px;
+    height: 90px;
+    padding-top:10px ;
+}
+.btn1{
+    position: relative;
+    top:90px;
+    left: 40px;
+    height: 40px;
+    width: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    background-color: #424242;
+    color: white;
+}
+.ftcntcont{
+    position: absolute;
+    top: 700px;
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(45deg,#e2dfff,#dfe4ff,#dfeeff,#dfe7ff,#e3e4ff);
+}
+.ftcntcont h1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.exbtn{
+    width: 200px;
+    height: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    left: 1150px;  
+    border: none;
+    background: rgb(49, 49, 49);
+    color: white;
+    border-radius: 15px;
+}
+.cntfoot{
+    position: relative;
+    top: 820px;
+   
+    width: 100%;
+
+}
